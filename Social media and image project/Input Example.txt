@@ -1,0 +1,16 @@
+🔄 Input Example:
+
+{
+  "business_name": "Bloom Hair Studio",
+  "business_type": "Hair salon",
+  "business_location": "Dallas, Texas",
+  "products_or_services": ["haircuts", "coloring", "scalp treatments"],
+  "target_customers": "women and men aged 20–45",
+  "brand_story": "We started with a simple goal: to make great hair feel easy and empowering.",
+  "brand_tone": "friendly and confident",
+  "promotions": ["20% off for first-time clients", "Free deep-conditioning with every color treatment"],
+  "testimonials": ["“Best color I’ve ever had!”", "“They actually listened to what I wanted.”"],
+  "behind_the_scenes": ["Stylist mixing custom hair color", "Client reaction after a fresh cut"],
+  "events_or_news": ["Spring Hair Glow event next month"],
+  "faqs": ["Do you take walk-ins?", "How often should I get a trim?"]
+}
